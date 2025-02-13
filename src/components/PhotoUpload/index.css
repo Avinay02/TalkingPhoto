@@ -1,0 +1,23 @@
+.file-upload-label {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  text-align: center;
+}
+.file-upload{
+  font-weight: bold;
+  font-size:30px;
+}
+input[type='file'] {
+  display: none;
+}
+
+input[type='file']:focus + label {
+  border: 2px solid #4caf50;
+}
+
+input[type='file']:hover + label {
+  background-color: #45a049;
+}
