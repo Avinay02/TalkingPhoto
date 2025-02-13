@@ -25,7 +25,7 @@ Clone the repository:
 
 bash
 Copy
-git clone https://github.com/your-username/talking-photo-app.git
+git clone https://github.com/Avinay02/talking-photo-app.git
 cd talking-photo-app/frontend
 Install the dependencies:
 
